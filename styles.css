@@ -13,10 +13,10 @@ body{
   justify-content: center;
   min-height: 100vh;
   background: #17A2B8;
-  background-image: url('img/type2.jpg'); /* Replace with the actual path to your image */
-  background-size: cover; /* Ensures the background covers the entire area */
-  background-position: center; /* Centers the background image */
-  background-repeat: no-repeat; /* Prevents the background image from repeating */
+  background-image: url('img/type2.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
 
 }
 ::selection{
